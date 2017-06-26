@@ -2,7 +2,7 @@
 """
 Created on Tue May 30 13:59:20 2017
 
-@author: pc-plg
+@author: Francesco Lacriola
 """
 import numpy as np
 from PIL import ImageDraw,Image
